@@ -15,7 +15,7 @@ number = 0
     number += 1 
   end
 end
-loop_message_n_times("Hello Moon.", 0)
+
 
 def output_array(array)
   
