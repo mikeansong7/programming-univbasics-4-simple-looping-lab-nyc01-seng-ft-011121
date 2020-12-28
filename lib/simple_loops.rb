@@ -8,12 +8,15 @@ def loop_message_five_times(message)
 end
 loop_message_five_times("Hello World.")
 
-def loop_message_n_times(message, integer)
-integer = 0
-  while integer<5 do
+def loop_message_n_times(message, number)
+number = 0
+  while number<5 do
     puts message 
-    integer += 1 
+    number += 1 
   end
 end
-loop_message_n_times(
+loop_message_n_times("Hello Moon.", 0)
+
+def output_array(array)
+  
   
