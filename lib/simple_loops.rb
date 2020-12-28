@@ -15,6 +15,8 @@ number = 0
   end
 end
 
+def output_array(array)
+  
 
 
   
